@@ -1,0 +1,6 @@
+/Users/richardlee/Csharp/Point/Point/bin/Debug/Point.exe
+/Users/richardlee/Csharp/Point/Point/bin/Debug/Point.pdb
+/Users/richardlee/Csharp/Point/Point/obj/x86/Debug/Point.csprojAssemblyReference.cache
+/Users/richardlee/Csharp/Point/Point/obj/x86/Debug/Point.csproj.CoreCompileInputs.cache
+/Users/richardlee/Csharp/Point/Point/obj/x86/Debug/Point.exe
+/Users/richardlee/Csharp/Point/Point/obj/x86/Debug/Point.pdb

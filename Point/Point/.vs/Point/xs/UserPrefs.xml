@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{8F9B8387-8420-48BF-98AF-A8E8E10C979C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Utilities.cs">
+    <Files>
+      <File FileName="Program.cs" Line="30" Column="56" />
+      <File FileName="Properties/Point.cs" Line="41" Column="48" />
+      <File FileName="Array.cs" Line="5" Column="2" />
+      <File FileName="Utilities.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Point" expanded="True">
+            <Node name="Point" expanded="True">
+              <Node name="PointsAndLines" expanded="True" />
+              <Node name="Utilities.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Point PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
