@@ -56,7 +56,6 @@ namespace PointsAndLines
         }
     }
 
-
 }
 
 
