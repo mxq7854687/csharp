@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{22885D1A-18A5-4E6B-873C-D421F79FC731}|Default">
+  <MonoDevelop.Ide.ItemProperties.WarriorWars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WarriorWars/Tools.cs">
+    <Files>
+      <File FileName="WarriorWars/Program.cs" Line="60" Column="37" />
+      <File FileName="WarriorWars/Equipment/Weapon.cs" Line="4" Column="5" />
+      <File FileName="WarriorWars/Enum/Faction.cs" Line="3" Column="12" />
+      <File FileName="WarriorWars/Equipment/Armor.cs" Line="18" Column="12" />
+      <File FileName="WarriorWars/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="WarriorWars/EntryPoint.cs" Line="1" Column="24" />
+      <File FileName="WarriorWars/Tools.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WarriorWars" expanded="True">
+            <Node name="WarriorWars" expanded="True">
+              <Node name="Enum" expanded="True" />
+              <Node name="Equipment" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Tools.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

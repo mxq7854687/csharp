@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{8F9B8387-8420-48BF-98AF-A8E8E10C979C}</ProjectGuid>
+    <ProjectGuid>{22885D1A-18A5-4E6B-873C-D421F79FC731}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Point</RootNamespace>
-    <AssemblyName>Point</AssemblyName>
+    <RootNamespace>WarriorWars</RootNamespace>
+    <AssemblyName>WarriorWars</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
@@ -32,16 +32,17 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Warriors.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Program.cs" />
-    <Compile Include="PointsAndLines\User.cs" />
-    <Compile Include="Array.cs" />
-    <Compile Include="Utilities.cs" />
-    <Compile Include="Warrior.cs" />
-    <Compile Include="Weapon.cs" />
+    <Compile Include="Enum\Faction.cs" />
+    <Compile Include="Equipment\Armor.cs" />
+    <Compile Include="Equipment\Weapon.cs" />
+    <Compile Include="EntryPoint.cs" />
+    <Compile Include="Tools.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="PointsAndLines\" />
+    <Folder Include="Enum\" />
+    <Folder Include="Equipment\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

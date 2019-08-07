@@ -1,0 +1,6 @@
+/Users/richardlee/Csharp/WarriorWars/WarriorWars/bin/Debug/WarriorWars.exe
+/Users/richardlee/Csharp/WarriorWars/WarriorWars/bin/Debug/WarriorWars.pdb
+/Users/richardlee/Csharp/WarriorWars/WarriorWars/obj/x86/Debug/WarriorWars.csprojAssemblyReference.cache
+/Users/richardlee/Csharp/WarriorWars/WarriorWars/obj/x86/Debug/WarriorWars.csproj.CoreCompileInputs.cache
+/Users/richardlee/Csharp/WarriorWars/WarriorWars/obj/x86/Debug/WarriorWars.exe
+/Users/richardlee/Csharp/WarriorWars/WarriorWars/obj/x86/Debug/WarriorWars.pdb
